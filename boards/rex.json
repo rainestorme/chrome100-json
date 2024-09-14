@@ -1,0 +1,47 @@
+{
+  "pageProps": {
+    "board": "rex",
+    "images": [
+      {
+        "board": "rex",
+        "platform": "15786.58.0",
+        "chrome": "123.0.6312.132",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-04-23T00:29:01Z"
+      },
+      {
+        "board": "rex",
+        "platform": "15823.40.0",
+        "chrome": "124.0.6367.95",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-06T23:02:48Z"
+      },
+      {
+        "board": "rex",
+        "platform": "15823.58.0",
+        "chrome": "124.0.6367.219",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-18T01:26:34Z"
+      },
+      {
+        "board": "rex",
+        "platform": "15823.60.0",
+        "chrome": "124.0.6367.225",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-24T00:18:34Z"
+      }
+    ],
+    "brands": [
+      "CX5403C"
+    ]
+  },
+  "__N_SSP": true
+}

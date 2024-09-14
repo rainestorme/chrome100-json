@@ -1,0 +1,137 @@
+{
+  "pageProps": {
+    "board": "x86-mario",
+    "images": [
+      {
+        "board": "x86-mario",
+        "platform": "6457.107.0",
+        "chrome": "40.0.2214.115",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-02-27T02:37:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "6680.64.0",
+        "chrome": "41.0.2272.89",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-03-19T19:03:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "6812.88.0",
+        "chrome": "42.0.2311.153",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-05-15T06:28:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "6946.70.0",
+        "chrome": "43.0.2357.132",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-07-13T21:06:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "6946.86.0",
+        "chrome": "43.0.2357.134",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-07-17T00:49:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "7077.134.0",
+        "chrome": "44.0.2403.156",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-08-26T20:41:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "7262.57.0",
+        "chrome": "45.0.2454.98",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2015-10-01T20:57:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "7520.63.0",
+        "chrome": "47.0.2526.106",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2016-01-04T22:39:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "7647.84.0",
+        "chrome": "48.0.2564.116",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2016-02-26T23:26:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "7834.70.0",
+        "chrome": "49.0.2623.112",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2016-04-18T20:42:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "8172.62.0",
+        "chrome": "51.0.2704.106",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2016-07-15T02:08:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "8350.68.0",
+        "chrome": "52.0.2743.116",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2016-08-05T04:18:00Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "8530.93.0",
+        "chrome": "53.0.2785.144",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2016-09-30T18:34:44Z"
+      },
+      {
+        "board": "x86-mario",
+        "platform": "9000.91.0",
+        "chrome": "56.0.2924.110",
+        "mp_token": "mario-mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2017-03-02T19:12:45Z"
+      }
+    ],
+    "brands": [
+      "Google Cr-48"
+    ]
+  },
+  "__N_SSP": true
+}

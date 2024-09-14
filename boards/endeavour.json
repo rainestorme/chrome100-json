@@ -1,0 +1,29 @@
+{
+  "pageProps": {
+    "board": "endeavour",
+    "images": [
+      {
+        "board": "endeavour",
+        "platform": "13816.63.21",
+        "chrome": "90.0.4430.106",
+        "mp_token": "mp",
+        "mp_key": 1,
+        "channel": "stable-channel",
+        "last_modified": "2021-08-19T17:19:22Z"
+      },
+      {
+        "board": "endeavour",
+        "platform": "15437.59.22",
+        "chrome": "114.0.5735.291",
+        "mp_token": "mp",
+        "mp_key": 1,
+        "channel": "stable-channel",
+        "last_modified": "2024-01-23T23:27:55Z"
+      }
+    ],
+    "brands": [
+      "Meet Compute System - Series One"
+    ]
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,166 @@
+{
+  "pageProps": {
+    "board": "skyrim",
+    "images": [
+      {
+        "board": "skyrim",
+        "platform": "15393.58.0",
+        "chrome": "113.0.5672.134",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-05-25T21:13:13Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15437.57.0",
+        "chrome": "114.0.5735.205",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-07-17T14:31:28Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15437.68.0",
+        "chrome": "114.0.5735.332",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-09-15T21:54:43Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15437.87.0",
+        "chrome": "114.0.5735.347",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-01-24T02:46:51Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15437.98.0",
+        "chrome": "114.0.5735.358",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-03-28T22:55:57Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15474.84.0",
+        "chrome": "115.0.5790.182",
+        "mp_token": "mp",
+        "mp_key": 4,
+        "channel": "stable-channel",
+        "last_modified": "2023-08-22T19:11:16Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15509.81.0",
+        "chrome": "116.0.5845.210",
+        "mp_token": "mp",
+        "mp_key": 4,
+        "channel": "stable-channel",
+        "last_modified": "2023-09-27T22:41:38Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15572.50.0",
+        "chrome": "117.0.5938.144",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "2023-10-09T16:46:52Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15572.57.0",
+        "chrome": "117.0.5938.144",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "2023-10-06T16:20:26Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15572.63.0",
+        "chrome": "117.0.5938.157",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "2023-10-13T19:47:43Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15633.65.0",
+        "chrome": "119.0.6045.209",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "2023-12-12T20:05:43Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15633.69.0",
+        "chrome": "119.0.6045.212",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "2023-12-15T21:40:02Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15699.72.0",
+        "chrome": "121.0.6167.212",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-03-04T17:27:05Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15786.58.0",
+        "chrome": "123.0.6312.132",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-04-23T00:29:01Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15823.40.0",
+        "chrome": "124.0.6367.95",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-06T23:02:48Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15823.58.0",
+        "chrome": "124.0.6367.219",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-18T01:26:34Z"
+      },
+      {
+        "board": "skyrim",
+        "platform": "15823.60.0",
+        "chrome": "124.0.6367.225",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-24T00:18:34Z"
+      }
+    ],
+    "brands": [
+      "ASUS Chromebook CM34 Flip",
+      "Acer Chromebook Plus 514 (CB514-3H, CB514-3HT)",
+      "Dell Latitude 3445 Chromebook"
+    ]
+  },
+  "__N_SSP": true
+}

@@ -1,0 +1,206 @@
+{
+  "pageProps": {
+    "board": "brask",
+    "images": [
+      {
+        "board": "brask",
+        "platform": "15183.59.0",
+        "chrome": "108.0.5359.75",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-03-29T22:20:48Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15183.78.0",
+        "chrome": "108.0.5359.172",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-02-17T01:26:02Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15183.82.0",
+        "chrome": "108.0.5359.219",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-02-13T23:18:25Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15236.66.0",
+        "chrome": "109.0.5414.94",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-01-31T17:24:42Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15236.80.0",
+        "chrome": "109.0.5414.125",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2023-02-06T16:07:47Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15437.57.0",
+        "chrome": "114.0.5735.205",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2023-07-17T14:31:28Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15437.68.0",
+        "chrome": "114.0.5735.332",
+        "mp_token": "mp",
+        "mp_key": 7,
+        "channel": "stable-channel",
+        "last_modified": "2023-09-15T21:54:43Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15437.87.0",
+        "chrome": "114.0.5735.347",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-01-24T02:46:51Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15437.98.0",
+        "chrome": "114.0.5735.358",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-03-28T22:55:57Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15474.84.0",
+        "chrome": "115.0.5790.182",
+        "mp_token": "mp",
+        "mp_key": 9,
+        "channel": "stable-channel",
+        "last_modified": "2023-08-21T18:29:56Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15509.81.0",
+        "chrome": "116.0.5845.210",
+        "mp_token": "mp",
+        "mp_key": 9,
+        "channel": "stable-channel",
+        "last_modified": "2023-09-27T22:41:38Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15572.50.0",
+        "chrome": "117.0.5938.144",
+        "mp_token": "mp",
+        "mp_key": 9,
+        "channel": "stable-channel",
+        "last_modified": "2023-10-09T16:46:52Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15572.57.0",
+        "chrome": "117.0.5938.144",
+        "mp_token": "mp",
+        "mp_key": 9,
+        "channel": "stable-channel",
+        "last_modified": "2023-10-06T16:20:26Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15572.63.0",
+        "chrome": "117.0.5938.157",
+        "mp_token": "mp",
+        "mp_key": 9,
+        "channel": "stable-channel",
+        "last_modified": "2023-10-13T19:47:43Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15633.65.0",
+        "chrome": "119.0.6045.209",
+        "mp_token": "mp",
+        "mp_key": 10,
+        "channel": "stable-channel",
+        "last_modified": "2023-12-12T20:05:43Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15633.69.0",
+        "chrome": "119.0.6045.212",
+        "mp_token": "mp",
+        "mp_key": 10,
+        "channel": "stable-channel",
+        "last_modified": "2023-12-15T21:40:02Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15699.72.0",
+        "chrome": "121.0.6167.212",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-03-04T17:27:05Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15786.58.0",
+        "chrome": "123.0.6312.132",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-04-23T00:29:01Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15823.40.0",
+        "chrome": "124.0.6367.95",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-06T23:02:48Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15823.58.0",
+        "chrome": "124.0.6367.219",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-18T01:26:34Z"
+      },
+      {
+        "board": "brask",
+        "platform": "15823.60.0",
+        "chrome": "124.0.6367.225",
+        "mp_token": "mp",
+        "mp_key": 12,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-24T00:18:34Z"
+      }
+    ],
+    "brands": [
+      "AOpen Chromebox Commercial 3",
+      "Chromebox Enterprise G4",
+      "Lenovo ThinkCentre M60q Chromebox",
+      "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)",
+      "Lisbon Development Product",
+      "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3",
+      "Acer Chromebox CXI5"
+    ]
+  },
+  "__N_SSP": true
+}

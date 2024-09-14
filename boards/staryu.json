@@ -1,0 +1,74 @@
+{
+  "pageProps": {
+    "board": "staryu",
+    "images": [
+      {
+        "board": "staryu",
+        "platform": "15633.65.0",
+        "chrome": "119.0.6045.209",
+        "mp_token": "mp",
+        "mp_key": 2,
+        "channel": "stable-channel",
+        "last_modified": "2023-12-12T20:05:43Z"
+      },
+      {
+        "board": "staryu",
+        "platform": "15633.69.0",
+        "chrome": "119.0.6045.212",
+        "mp_token": "mp",
+        "mp_key": 2,
+        "channel": "stable-channel",
+        "last_modified": "2023-12-15T21:40:02Z"
+      },
+      {
+        "board": "staryu",
+        "platform": "15699.72.0",
+        "chrome": "121.0.6167.212",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-03-04T17:27:05Z"
+      },
+      {
+        "board": "staryu",
+        "platform": "15786.58.0",
+        "chrome": "123.0.6312.132",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-04-23T00:29:01Z"
+      },
+      {
+        "board": "staryu",
+        "platform": "15823.40.0",
+        "chrome": "124.0.6367.95",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-06T23:02:48Z"
+      },
+      {
+        "board": "staryu",
+        "platform": "15823.58.0",
+        "chrome": "124.0.6367.219",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-18T01:26:34Z"
+      },
+      {
+        "board": "staryu",
+        "platform": "15823.60.0",
+        "chrome": "124.0.6367.225",
+        "mp_token": "mp",
+        "mp_key": 3,
+        "channel": "stable-channel",
+        "last_modified": "2024-05-24T00:18:34Z"
+      }
+    ],
+    "brands": [
+      "ASUS Chromebook CM30"
+    ]
+  },
+  "__N_SSP": true
+}
