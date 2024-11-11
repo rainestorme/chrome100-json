@@ -9,7 +9,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-02-27T02:37:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -18,7 +18,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-03-19T19:03:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -27,7 +27,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-05-15T06:28:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -36,7 +36,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-07-13T21:06:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -45,7 +45,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-07-17T00:49:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -54,7 +54,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-08-26T20:41:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -63,7 +63,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2015-10-01T20:57:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -72,7 +72,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2016-01-04T22:39:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -81,7 +81,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2016-02-26T23:26:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -90,7 +90,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2016-04-18T20:42:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -99,7 +99,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2016-09-30T18:34:44Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -108,7 +108,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2016-10-26T17:50:00Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -117,7 +117,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2016-11-21T22:52:41Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -126,7 +126,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2017-03-03T05:13:55Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -135,7 +135,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2017-04-24T23:14:20Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "x86-alex",
@@ -144,7 +144,7 @@
         "mp_token": "alex-mp",
         "mp_key": 4,
         "channel": "stable-channel",
-        "last_modified": "2017-05-25T22:06:22Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
     "brands": []

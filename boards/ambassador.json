@@ -9,7 +9,16 @@
         "mp_token": "mp",
         "mp_key": 6,
         "channel": "stable-channel",
-        "last_modified": "2024-01-23T23:27:55Z"
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "ambassador",
+        "platform": "15662.80.31",
+        "chrome": "120.0.6099.246",
+        "mp_token": "mp",
+        "mp_key": 8,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
     "brands": [

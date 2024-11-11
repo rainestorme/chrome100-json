@@ -1,3 +1,5 @@
 *__pycache__*/
 *.db
 .mypy_cache/
+*_bak.json
+temp.json

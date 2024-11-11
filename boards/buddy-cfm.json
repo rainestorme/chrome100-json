@@ -9,7 +9,7 @@
         "mp_token": "buddy-mp",
         "mp_key": 2,
         "channel": "stable-channel",
-        "last_modified": "2021-03-19T18:51:03Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "buddy-cfm",
@@ -18,7 +18,7 @@
         "mp_token": "buddy-mp",
         "mp_key": 2,
         "channel": "stable-channel",
-        "last_modified": "2021-05-05T18:39:45Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       },
       {
         "board": "buddy-cfm",
@@ -27,7 +27,7 @@
         "mp_token": "buddy-mp",
         "mp_key": 2,
         "channel": "stable-channel",
-        "last_modified": "2021-08-19T17:19:22Z"
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
     "brands": []
