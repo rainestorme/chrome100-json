@@ -802,6 +802,51 @@
         "mp_key": 5,
         "channel": "stable-channel",
         "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "nocturne",
+        "platform": "15917.71.0",
+        "chrome": "127.0.6533.132",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "nocturne",
+        "platform": "15964.58.0",
+        "chrome": "128.0.6613.161",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "nocturne",
+        "platform": "15964.59.0",
+        "chrome": "128.0.6613.163",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "nocturne",
+        "platform": "16002.60.0",
+        "chrome": "129.0.6668.112",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "nocturne",
+        "platform": "16033.58.0",
+        "chrome": "130.0.6723.126",
+        "mp_token": "mp",
+        "mp_key": 5,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
     "brands": [

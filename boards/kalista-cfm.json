@@ -46,9 +46,29 @@
         "mp_key": 4,
         "channel": "stable-channel",
         "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "kalista-cfm",
+        "platform": "15662.80.53",
+        "chrome": "120.0.6099.247",
+        "mp_token": "kalista-mp",
+        "mp_key": 4,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "kalista-cfm",
+        "platform": "15886.63.27",
+        "chrome": "126.0.6478.200",
+        "mp_token": "kalista-mp",
+        "mp_key": 6,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": []
+    "brands": [
+      "Acer Chromebase CA24V2"
+    ]
   },
   "__N_SSP": true
 }

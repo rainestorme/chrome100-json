@@ -46,6 +46,24 @@
         "mp_key": 15,
         "channel": "stable-channel",
         "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "fizz-cfm",
+        "platform": "15662.80.53",
+        "chrome": "120.0.6099.247",
+        "mp_token": "fizz-mp",
+        "mp_key": 15,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "fizz-cfm",
+        "platform": "15886.63.27",
+        "chrome": "126.0.6478.200",
+        "mp_token": "fizz-mp",
+        "mp_key": 17,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
     "brands": []

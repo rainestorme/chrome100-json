@@ -325,6 +325,51 @@
         "mp_key": 18,
         "channel": "stable-channel",
         "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "brya",
+        "platform": "15917.71.0",
+        "chrome": "127.0.6533.132",
+        "mp_token": "mp",
+        "mp_key": 18,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "brya",
+        "platform": "15964.58.0",
+        "chrome": "128.0.6613.161",
+        "mp_token": "mp",
+        "mp_key": 18,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "brya",
+        "platform": "15964.59.0",
+        "chrome": "128.0.6613.163",
+        "mp_token": "mp",
+        "mp_key": 18,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "brya",
+        "platform": "16002.60.0",
+        "chrome": "129.0.6668.112",
+        "mp_token": "mp",
+        "mp_key": 18,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
+      },
+      {
+        "board": "brya",
+        "platform": "16033.58.0",
+        "chrome": "130.0.6723.126",
+        "mp_token": "mp",
+        "mp_key": 18,
+        "channel": "stable-channel",
+        "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
     "brands": [
@@ -346,8 +391,11 @@
       "Dell Latitude 5430 2-in-1 Chromebook",
       "Dell Latitude 5430 Chromebook",
       "Framework Laptop Chromebook Edition",
+      "Galaxy Chromebook Plus",
+      "HP Chromebook Plus X360 14",
       "HP Dragonfly Pro Chromebook",
       "HP Elite Dragonfly Chromebook",
+      "HP Elite c640 14 inch G3 Chromebook",
       "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
       "IdeaPad Gaming Chromebook 16",
       "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
