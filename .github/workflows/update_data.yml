@@ -37,7 +37,7 @@ jobs:
         git add -A
         git commit -m "Auto-update database"
     - name: Push changes
-      if: env.modified == 'true'
+      if: steps.git-check.outputs.modified == 'true'
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
