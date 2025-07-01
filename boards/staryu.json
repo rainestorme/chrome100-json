@@ -129,11 +129,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook CM30",
-      "ASUS Chromebook CM3001",
-      "Dynabook Chromebook C70"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

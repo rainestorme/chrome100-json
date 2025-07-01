@@ -30,13 +30,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Meet Compute System (Intel 10th Gen)",
-      "CTL Meet Compute System (Intel 10th Gen)",
-      "Meet Compute System - Series One (Intel 10th Gen)",
-      "Series One Board 65",
-      "Series One Desk 27"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

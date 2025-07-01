@@ -687,15 +687,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Acer Chromebook 511 (C741L/C741LT)",
-      "Acer Chromebook Spin 513, CP513-1H/1HL, R841T/LT",
-      "Dynabook Chromebook C1",
-      "HP Fortis 11 G9 Q Chromebook/Chromebook Enterprise",
-      "Libera-Merdeka Chromebook C100/C110/C120/C150",
-      "Orbic Chromebook",
-      "Prowise Chromebook 360 G1"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

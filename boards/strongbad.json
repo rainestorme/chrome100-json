@@ -606,12 +606,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Acer Chromebook Tab 510 / Enterprise Tab 510",
-      "Chromebook x2 11-da0",
-      "Lenovo Chromebook Duet 3 / IdeaPad Duet 3 Chromebook / Lenovo Duet Chromebook Education Edition",
-      "Lenovo Chromebook Duet 5 / IdeaPad Duet 5 Chromebook"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

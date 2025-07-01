@@ -903,17 +903,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Acer Chromebook 13 (CB713-1W)",
-      "Acer Chromebook 714 (CB714-1W / CB714-1WT)",
-      "Acer Chromebook 715 (CB715-1W / CB715-1WT)",
-      "Acer Chromebook Spin 13 (CP713-1WN)",
-      "Chromebook 15-de0",
-      "Dell Inspiron Chromebook 14 2-in-1 (7486)",
-      "HP Chromebook x360 14",
-      "Lenovo C340-15 Chromebook",
-      "Lenovo Yoga C630 Chromebook"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

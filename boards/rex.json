@@ -93,11 +93,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS ExpertBook CX54 Chromebook Plus Enterprise (CX5403)",
-      "Acer Chromebook Plus Spin 714 (CP714-1H, CP714-1HN), Acer Chromebook Plus Enterprise Spin 714 (CPE794-1, CPE794-1N)",
-      "CX5403C"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

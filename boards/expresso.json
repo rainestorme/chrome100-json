@@ -588,12 +588,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Bobicus Chromebook 11",
-      "Consumer Chromebook",
-      "Edxis Chromebook",
-      "HEXA Chromebook Pi"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

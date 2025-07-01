@@ -417,17 +417,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "CTL J2 / J4 Chromebook",
-      "EduGear Chromebook K",
-      "Epik 11.6\" Chromebook ELB1101",
-      "HiSense Chromebook 11",
-      "Mecer Chromebook",
-      "NComputing Chromebook CX100",
-      "Poin2 Chromebook 11",
-      "Positivo Chromebook CH1190",
-      "VideoNet Chromebook BL10"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

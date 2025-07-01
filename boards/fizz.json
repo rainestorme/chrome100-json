@@ -930,18 +930,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "AOpen Chromebox Commercial 2",
-      "ASUS Chromebox 3 (CN65)",
-      "Acer Chromebox CXI3",
-      "CTL Chromebox CBx1",
-      "HP Chromebox G2",
-      "Newline Chromebox A10",
-      "OWG",
-      "Promethean Chromebox",
-      "SMART Chromebox G3",
-      "ViewSonic NMP660 Chromebox"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

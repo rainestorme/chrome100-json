@@ -696,13 +696,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "AOpen Chromebook Commercial Tab",
-      "ASUS Chromebook Tablet CT100",
-      "Acer Chromebook Tab 10",
-      "CTL Chromebook Tablet Tx1 for Education",
-      "druwl"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

@@ -642,16 +642,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Acer Chromebook 11 N7 (C731, C731T)",
-      "CTL NL61 Chromebook",
-      "EduGear Chromebook R",
-      "Edxis Education Chromebook (NL6D)",
-      "HP Chromebook 11 G5 EE",
-      "Mecer V2 Chromebook",
-      "N/A",
-      "Positivo Chromebook C216B"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

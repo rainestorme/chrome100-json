@@ -696,12 +696,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Lenovo N22 Chromebook",
-      "Lenovo N23 Chromebook",
-      "Lenovo N23 Chromebook (Touch)",
-      "Lenovo N42 Chromebook"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

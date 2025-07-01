@@ -876,11 +876,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook C425",
-      "ASUS Chromebook Flip C433",
-      "ASUS Chromebook Flip C434"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

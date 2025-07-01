@@ -732,21 +732,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook Flip CM3200FVA",
-      "Acer Chromebook 314 (CB314-2H/CB314-2HT)",
-      "Acer Chromebook 311 (C722/C722T)",
-      "Acer Chromebook 311 (CB311-11H/CB311-11HT)",
-      "Acer Chromebook Spin 311 (CP311-3H)",
-      "Acer Chromebook Spin 311 - R722T",
-      "HP Chromebook 11MK G9 EE",
-      "HP Chromebook 11a na0",
-      "HP Chromebook 11a-ne0",
-      "HP Chromebook x360 11MK G3 EE",
-      "IdeaPad 3 Chromebook",
-      "IdeaPad Flex 3 Chromebook",
-      "Lenovo 100e Gen 2"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

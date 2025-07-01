@@ -678,17 +678,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebox 4",
-      "ASUS Fanless Chromebox",
-      "Acer Chromebox CXI4",
-      "CTL Chromebox CBx2/Enterprise CBx2",
-      "HP Chromebase 21.5 inch All-in-One Desktop",
-      "HP Chromebox G3",
-      "Promethean Chromebox 2",
-      "ViewSonic NMP760 Chromebox",
-      "Wyvern MobLab"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

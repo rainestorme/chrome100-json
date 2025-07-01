@@ -372,38 +372,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook CX34 Flip (CX3401) / ASUS Chromebook CX34 Flip (CX3401FBA) / ASUS Chromebook Enterprise CB34 Flip (CB3401) / ASUS Chromebook Enterprise CX34 Flip (CX3401)",
-      "ASUS Chromebook Flip CX5(CX5601), ASUS Chromebook Enterprise Flip CX5(CX5601)",
-      "ASUS Chromebook Plus CX34 CX3402CBA",
-      "ASUS Chromebook Plus CX34 CX3402CVA",
-      "Acer Chromebook 516 GE (CBG516-1H)",
-      "Acer Chromebook Plus 515 (CB515-2H, CB515-2HT)",
-      "Acer Chromebook Plus 516 GE (CBG516-2H)",
-      "Acer Chromebook Plus Enterprise 515 (CBE595-2/CBE595-2T)",
-      "Acer Chromebook Plus Spin 514 (CP514-4HN, CPE594-1N, CPE594-1N)",
-      "Acer Chromebook Spin 714 -- CP714-1WN / Acer Chromebook Enterprise Spin 714 -- CP714-1WN",
-      "Acer Chromebook Spin 714 -- CP714-2WN / Acer Chromebook Enterprise Spin 714 -- CP714-2WN",
-      "Acer Chromebook Vero 514",
-      "Acer Chromebook Vero 712 (CV872, CV872T)",
-      "Asus Chromebook Vibe CX34 Flip (CX3401) / Asus Chromebook Vibe CX34 Flip (CX3401FBA)",
-      "Chromebook x360 14c-cd0",
-      "Dell Latitude 5430 2-in-1 Chromebook",
-      "Dell Latitude 5430 Chromebook",
-      "Framework Laptop Chromebook Edition",
-      "Galaxy Chromebook Plus",
-      "HP Chromebook Plus X360 14",
-      "HP Dragonfly Pro Chromebook",
-      "HP Elite Dragonfly Chromebook",
-      "HP Elite c640 14 inch G3 Chromebook",
-      "IdeaPad Flex 5i Chromebook Plus (14\", 7)",
-      "IdeaPad Gaming Chromebook 16",
-      "Lenovo 5i Chromebook 16\"/IdeaPad 5i Chromebook (16\", 7)",
-      "Lenovo Flex 5i Chromebook (14\", 7)",
-      "Lenovo Flex 5i Chromebook 14\"/IdeaPad Flex 5i Chromebook (14\", 7)",
-      "ThinkPad C14 Gen 1 Chromebook",
-      "w/o Chrome Enterprise Upgrade: HP Elite c640 14 inch G3 Chromebook; with Chrome Enterprise Upgrade: HP Elite c640 14 inch G3 Chromebook Enterprise"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

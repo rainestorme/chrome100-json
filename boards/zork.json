@@ -642,19 +642,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook Flip CM1 (CM1400)",
-      "ASUS Chromebook Flip CM5",
-      "Acer Chromebook Spin 514 (CP514-1H, CP514-1W, CP514-1WH, CP514-1HH)",
-      "Chromebook 14b-na0",
-      "HP Chromebook 14a-nd0",
-      "HP Chromebook x360 14a-cb0",
-      "Lenovo 100e Chromebook Gen 3",
-      "Lenovo 14e Chromebook Gen 2",
-      "Lenovo 300e Chromebook Gen 3",
-      "Lenovo ThinkPad C13 Yoga Chromebook / Lenovo ThinkPad C13 Yoga Chromebook Enterprise",
-      "NEC Chromebook Y1 Gen3A"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

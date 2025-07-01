@@ -579,21 +579,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASI Chromebook",
-      "CTL N6 Education Chromebook",
-      "Crambo Chromebook",
-      "Education Chromebook",
-      "Edxis Education Chromebook (NL6)",
-      "JP Sa Couto Chromebook",
-      "Lenovo N21 Chromebook",
-      "M&A Chromebook",
-      "RGS Education Chromebook",
-      "Senkatel C1101 Chromebook",
-      "True IDC Chromebook",
-      "Videonet Chromebook",
-      "eduGear Chromebook R"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

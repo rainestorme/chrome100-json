@@ -255,17 +255,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "AOpen Chromebox Commercial 3",
-      "ASUS Chromebox 5 (CN67), ASUS Chromebox Enterprise 5 (CN67)",
-      "ASUS Chromebox 5a, ASUS Chromebox Enterprise 5a",
-      "Acer Chromebox CXI5",
-      "CTL Chromebox CBx3 / CTL Chromebox Enterprise CBx3",
-      "Centerm Chromebox D661 / Centerm Chromebox Enterprise D661",
-      "Chromebox Enterprise G4",
-      "Lenovo ThinkCentre M60q Chromebox",
-      "Lisbon Development Product"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

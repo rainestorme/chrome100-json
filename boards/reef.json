@@ -921,10 +921,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook Flip C213",
-      "Acer Chromebook Spin 11 (R751T / CP511)"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

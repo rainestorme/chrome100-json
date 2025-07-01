@@ -912,11 +912,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "Chromebook 11-ae0 / Chromebook 11-ae1",
-      "Chromebook 14-ca1 / Chromebook 14-ca0",
-      "HP Chromebook 11 G6 EE / Chromebook 11a"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

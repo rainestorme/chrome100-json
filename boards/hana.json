@@ -885,17 +885,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook C202XA / C203XA",
-      "Lenovo 100e Chromebook 2nd Gen MTK",
-      "Lenovo 300e Chromebook 2nd Gen MTK",
-      "Lenovo 300e/N23 Yoga/Flex 11 Chromebook",
-      "Lenovo Ideapad C330 Chromebook",
-      "Lenovo Ideapad S330 Chromebook",
-      "Poin2 Chromebook 11C",
-      "Poin2 Chromebook 14",
-      "Prowise Chromebook Eduline / Prowise Chromebook Eduline 360"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

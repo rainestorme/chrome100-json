@@ -201,19 +201,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook CM14 (CM1402C)",
-      "ASUS Chromebook CM14 Flip (CM1402F)",
-      "Acer Chromebook 311(C723,C723-TCO,C723T,C723T-TCO)",
-      "Acer Chromebook Spin 311 (R724T/ R724T-TCO)",
-      "Acer Chromebook Spin 311 \uff08R724T/ R724T-TCO\uff09",
-      "CZ1104F",
-      "CZ1204C",
-      "IP Slim 3 Chrome 14M868",
-      "Lenovo 100e Chromebook Gen 4",
-      "Lenovo 100e Chromebook Gen 4 / Lenovo Chromebook 11M886",
-      "Lenovo 300e Yoga Chromebook Gen 4"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

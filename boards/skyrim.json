@@ -219,12 +219,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "ASUS Chromebook CM34 Flip",
-      "ASUS Chromebook Plus CM34 Flip",
-      "Acer Chromebook Plus 514 (CB514-3H, CB514-3HT)",
-      "Dell Latitude 3445 Chromebook"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }

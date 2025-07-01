@@ -642,15 +642,7 @@
         "last_modified": "1970-01-01T00:00:00Z"
       }
     ],
-    "brands": [
-      "CTL J5 Chromebook",
-      "Edugear CMT Chromebook",
-      "Haier Chromebook 11 C",
-      "Multilaser Chromebook M11C",
-      "PCMerge Chromebook PCM-116T-432B",
-      "Prowise Chromebook Proline",
-      "Viglen Chromebook 360"
-    ]
+    "brands": []
   },
   "__N_SSP": true
 }
